@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>
+
+hello how are you??? its paragraph  
+
+</p>
+
+<p>
+remind you agin its para part
+</p>
+
+<p>
+it fun to learn
+</p>
+
+</body>
+</html>                                        ##3said i need to see hte diftoll working or not
+this is modification 1
+first version of code
